@@ -51,6 +51,7 @@ def count_words(sentence):
 
     Bug: Doesn't handle empty string properly
     Bug: Doesn't handle None input
+    
     """
     words = sentence.split(" ")
     return len(words)

@@ -8,6 +8,10 @@ A minimal, clean UI to visualize the complete workflow:
 - Fixed Code (from Code Writer Agent)
 - Execution Statistics
 """
+#python -m streamlit run frontend/streamlit_app.py
+
+#run 
+
 
 import streamlit as st
 import sys
